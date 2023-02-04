@@ -22,7 +22,7 @@ body {
 
 /* Beginner level */
 .beginner {
-  height: 90vh;
+  height: 85vh;
   width: 90%;
   margin: 20px auto;
 
@@ -33,8 +33,8 @@ body {
 
 /* Beginner-plus level */
 .beginner-plus {
-  height: 90vh;
-  width: 90px;
+  height: 85vh;
+  width: 90%;
   margin: 20px auto;
 
   display: grid;
