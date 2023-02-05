@@ -16,7 +16,7 @@
 }
 
 body {
-  background: linear-gradient(lightblue, rgb(36, 36, 161));
+  background: linear-gradient(rgb(103, 188, 216), rgb(36, 36, 161));
   height: 100%;
 }
 
